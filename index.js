@@ -21,4 +21,6 @@ const createFareMultiplier = function (multiplier) {
   }
 }
 
-const fareDoubler() = 
+const fareDoubler() = createFareMultiplier(2)
+
+fareTripler() = c
