@@ -6,3 +6,6 @@ const returnFirstTwoDrivers = function (drivers) {
   return first
 }
 
+const returnLastTwoDrivers = function (drivers) {
+  
+}
