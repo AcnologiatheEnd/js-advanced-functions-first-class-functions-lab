@@ -5,3 +5,4 @@ const returnFirstTwoDrivers = function (drivers) {
   first.push(drivers[1])
   return first
 }
+
