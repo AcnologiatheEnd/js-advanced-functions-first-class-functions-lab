@@ -2,6 +2,6 @@
 const returnFirstTwoDrivers = function (drivers) {
   const first = []
   first.push(drivers[0])
-  firstT.push(drivers[1])
+  first.push(drivers[1])
   return first
 }
