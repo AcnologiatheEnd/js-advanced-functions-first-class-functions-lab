@@ -7,5 +7,8 @@ const returnFirstTwoDrivers = function (drivers) {
 }
 
 const returnLastTwoDrivers = function (drivers) {
-  
+  const last = []
+  last.push(drivers[-1])
+  last.push(drivers[-2])
+  return last
 }
